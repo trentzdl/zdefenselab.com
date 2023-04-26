@@ -1,14 +1,13 @@
-body
-{
- margin:0px auto;
- padding:0px;
- text-align:center;
- width:100%;
- font-family: "Myriad Pro","Helvetica Neue",Helvetica,Arial,Sans-Serif;
- background-color:#A9D0F5;
-}
-#header
-{
+body {
+	margin:0px auto;
+	padding:0px;
+	text-align:center;
+	width:100%;
+	font-family: "Myriad Pro","Helvetica Neue",Helvetica,Arial,Sans-Serif;
+	background-color:#A9D0F5;
+	}
+
+#header {
  width:100%;
  margin:0px auto;
  padding:0px;
@@ -16,6 +15,7 @@ body
  height:70px;
  line-height:70px;
 }
+
 #header li
 {
  display:inline-block;
